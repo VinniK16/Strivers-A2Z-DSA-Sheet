@@ -1,2 +1,16 @@
 # Strivers-A2Z-DSA-Sheet
-Solutions to Strivers A2Z DSA Sheet with problem statements, link to the problem statements, approaches, complexities and clean code.
+
+This repository contains my solutions to **Striver's A2Z DSA Sheet**.  
+Each solution includes:  
+- Problem statement  
+- Link to the problem  
+- Approach/Explanation  
+- Time & Space Complexity  
+- Well-structured code
+
+## How to Navigate  
+- Problems are organized by topic.  
+- Each file is named according to the problem.
+
+## Reference  
+- [Striver's A2Z DSA Sheet](https://codolio.com/question-tracker/sheet/strivers-a2z-dsa-sheet?category=popular)  
